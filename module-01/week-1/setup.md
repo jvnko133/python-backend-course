@@ -1,30 +1,25 @@
-# Setup
+# Task 1.1: Development Environment Setup
 
-## Versions
+## Environment
 
-Python 3.14.4
-Git 2.53.0
-VS Code 1.141.0 (x64)
+- **Operating System:** Ubuntu on WSL (and Windows 11)
+- **Repository location:** `/home/rozwell/python-backend-course`
+- **Python version:** 3.14.4
 
-## VS Code Extensions
+## Python Verification
 
-akamud.vscode-theme-onelight
-burkeholland.simple-react-snippets
-dsznajder.es7-react-js-snippets
-ecmel.vscode-html-css
-formulahendry.code-runner
-gitpod.gitpod-theme
-golang.go
-ms-python.debugpy
-ms-python.python
-ms-python.vscode-pylance
-ms-python.vscode-python-envs
-ms-vscode.cmake-tools
-ms-vscode.cpp-devtools
-ms-vscode.cpptools
-ms-vscode.cpptools-extension-pack
-ms-vscode.cpptools-themes
-ritwickdey.liveserver
-tal7aouy.theme
-webfreak.cute-theme
-xabikos.javascriptsnippets
+Command executed in the WSL terminal:
+
+- python3 hello.py
+
+Result: The script runs successfully.
+
+## Visual Studio Code Verification
+
+Command executed in the WSL terminal:
+
+code --version
+
+- 1.141.0
+2a59476c9bfcb90b3ddc372c36762471b7dfad1c
+x64
