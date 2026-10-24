@@ -47,4 +47,4 @@ Tasks run from WSL terminal
 - Commit messages are written in English and start with an imperative verb.
 - Changes are merged into `main` through an approved pull request.
 
-Conflict practice (ver. A)
+Conflict practice (ver. B)
