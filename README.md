@@ -46,3 +46,5 @@ Tasks run from WSL terminal
 - One task, one branch, one pull request.
 - Commit messages are written in English and start with an imperative verb.
 - Changes are merged into `main` through an approved pull request.
+
+Conflict practice (ver. B)
