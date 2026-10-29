@@ -1,5 +1,173 @@
 # Python Backend Course
 
+Repository to learn python backend
+Here stores notes, projects and tasks
+
+## Environment
+
+- OS: Ubuntu (WSL), Windows 11
+- Python: 3.14.4
+- Editor: VSCode
+- Version control: Git
+
+## Repository structure
+
+python-backend-course/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── README.md
+└── module-01/
+    ├── week-1/
+    ├── week-2/
+    ├── week-3/
+    └── capstone/
+
+## How to run tasks
+                                                   [ Read 48 lines ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo       M-A Set Mark
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo       M-6 Copy# Python Backend Course
+
+Repository to learn python backend
+Here stores notes, projects and tasks
+
+## Environment
+
+- OS: Ubuntu (WSL), Windows 11
+- Python: 3.14.4
+- Editor: VSCode
+- Version control: Git
+
+## Repository structure
+
+python-backend-course/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── README.md
+└── module-01/
+    ├── week-1/
+    ├── week-2/
+    ├── week-3/
+    └── capstone/
+
+## How to run tasks
+                                                   [ Read 48 lines ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo       M-A Set Mark
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo       M-6 Copy# Python Backend Course
+
+Repository to learn python backend
+Here stores notes, projects and tasks
+
+## Environment
+
+- OS: Ubuntu (WSL), Windows 11
+- Python: 3.14.4
+- Editor: VSCode
+- Version control: Git
+
+## Repository structure
+
+python-backend-course/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── README.md
+└── module-01/
+    ├── week-1/
+    ├── week-2/
+    ├── week-3/
+    └── capstone/
+
+## How to run tasks
+                                                   [ Read 48 lines ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo       M-A Set Mark
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo       M-6 Copy# Python Backend Course
+
+Repository to learn python backend
+Here stores notes, projects and tasks
+
+## Environment
+
+- OS: Ubuntu (WSL), Windows 11
+- Python: 3.14.4
+- Editor: VSCode
+- Version control: Git
+
+## Repository structure
+
+python-backend-course/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── README.md
+└── module-01/
+    ├── week-1/
+    ├── week-2/
+    ├── week-3/
+    └── capstone/
+
+## How to run tasks
+                                                   [ Read 48 lines ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo       M-A Set Mark
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo       M-6 Copy# Python Backend Course
+
+Repository to learn python backend
+Here stores notes, projects and tasks
+
+## Environment
+
+- OS: Ubuntu (WSL), Windows 11
+- Python: 3.14.4
+- Editor: VSCode
+- Version control: Git
+
+## Repository structure
+
+python-backend-course/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── README.md
+└── module-01/
+    ├── week-1/
+    ├── week-2/
+    ├── week-3/
+    └── capstone/
+
+## How to run tasks
+                                                   [ Read 48 lines ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo       M-A Set Mark
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo       M-6 Copy# Python Backend Course
+
+Repository to learn python backend
+Here stores notes, projects and tasks
+
+## Environment
+
+- OS: Ubuntu (WSL), Windows 11
+- Python: 3.14.4
+- Editor: VSCode
+- Version control: Git
+
+## Repository structure
+
+python-backend-course/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── README.md
+└── module-01/
+    ├── week-1/
+    ├── week-2/
+    ├── week-3/
+    └── capstone/
+
+## How to run tasks
+                                                   [ Read 48 lines ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo       M-A Set Mark
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo       M-6 Copy# Python Backend Course
+
 Repository to learn python backend 
 Here stores notes, projects and tasks
 
@@ -46,3 +214,5 @@ Tasks run from WSL terminal
 - One task, one branch, one pull request.
 - Commit messages are written in English and start with an imperative verb.
 - Changes are merged into `main` through an approved pull request.
+
+Conflict practice: version A
